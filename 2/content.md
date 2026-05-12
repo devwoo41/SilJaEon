@@ -8,7 +8,7 @@
 
 #### The Hierarchy of Linguistic Units
 
-=> Sentence(문장) -> Phrase(구) -> Word(단어) -> Morpheme(형태소) -> Phoneme(음소)
+=> Sentence(문장) -> Phrase(구) -> Word(단어) -> *Morpheme(형태소)* -> Phoneme(음소)
     morpheme은 의미를 가진 최소 단위
 
 => 자연어처리에서의 단어 단위, it depends on tasks or applications

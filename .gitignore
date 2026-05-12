@@ -1,3 +1,10 @@
 .venv
 .venv/
 .python-version
+projects2
+.codex
+.claude
+projects
+assignment_1/
+projects3/
+.agents/
